@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:003b24,100:0d1117&text=ZYAD.exe&fontColor=3fb950&fontSize=65&fontAlignY=50&animation=fadeIn&stroke=3fb950&strokeWidth=1" width="100%" />
 
-### `> Backend Developer in Progress_`
+### `> Backend Developer_`
 
 *I turn coffee into code, bugs into lessons, and ideas into projects.*
 
@@ -19,8 +19,7 @@ zyad@dev:~$ whoami
 ```
 
 ```text
-> CS student @ Damietta University
-> Learning JavaScript & Node.js
+> Backend development with JavaScript & Node.js
 > Practicing problem solving with C++
 > Exploring APIs, databases & backend systems
 > Interested in open source & collaborative development
