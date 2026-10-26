@@ -1,16 +1,85 @@
-## Hi there 👋
 
-<!--
-**ZyadElsaeed/ZyadElsaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:003b24,100:0d1117&text=ZYAD.exe&fontColor=3fb950&fontSize=65&fontAlignY=50&animation=fadeIn&stroke=3fb950&strokeWidth=1" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `> Backend Developer in Progress_`
+
+*I turn coffee into code, bugs into lessons, and ideas into projects.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3fb950)](https://github.com/ZyadElsaeed)
+[![Profile Views](https://komarev.com/ghpvc/?username=ZyadElsaeed&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/ZyadElsaeed)
+
+</div>
+
+---
+
+```bash
+zyad@dev:~$ whoami
+```
+
+```text
+> CS student @ Damietta University
+> Learning JavaScript & Node.js
+> Practicing problem solving with C++
+> Exploring APIs, databases & backend systems
+> Interested in open source & collaborative development
+
+> Current status: learning, building, repeating.
+```
+
+```bash
+zyad@dev:~$ cat currently_learning.txt
+```
+
+- `JavaScript` — building solid fundamentals
+- `Node.js` — exploring backend development
+- `SQL & Databases` — learning how data works
+- `Git & GitHub` — version control and collaboration
+- `C++` — problem solving practice
+
+---
+
+```bash
+zyad@dev:~$ ls ~/projects
+```
+
+I'm working on practical projects and improving them as I learn.
+
+- **[devmemory](https://github.com/ZyadElsaeed/devmemory)** — a project I'm exploring and developing.
+- **[zyad-portfolio](https://github.com/ZyadElsaeed/zyad-portfolio)** — my personal portfolio.
+
+More projects coming as the skill tree unlocks. 🎮
+
+---
+
+<div align="center">
+
+### `> github --stats`
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ZyadElsaeed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadElsaeed&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" />
+
+</div>
+
+---
+
+```bash
+zyad@dev:~$ sudo make me a senior developer
+```
+
+```text
+[sudo] password for zyad: ********
+Permission denied: gain experience first. 😂
+```
+
+<div align="center">
+
+**Less talking. More building. More breaking. More learning.**
+
+*If you build something cool, let's connect.*
+
+[GitHub Profile](https://github.com/ZyadElsaeed)
+
+</div>
